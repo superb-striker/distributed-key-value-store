@@ -1,0 +1,7 @@
+{
+  "nodes": [
+    { "id": "node-1", "http_addr": "localhost:8001" },
+    { "id": "node-2", "http_addr": "localhost:8002" },
+    { "id": "node-3", "http_addr": "localhost:8003" }
+  ]
+}
